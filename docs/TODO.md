@@ -360,7 +360,7 @@ Deferred until proven necessary or until a future pass picks them up.
   students can email or hand off. Pairs with embed-don't-reference save-file
   decision in Pass 3. (Pass 7+)
 
-- [ ] **Gated Latch** Add gated latch to to types of circuits students can make (in the tutorials, and as an achievement, or a pre-made component on easy mode)
+- [ ] **Gated Latch** Add [gated latch](https://youtu.be/rM9BjciBLmg?si=JYoGTqDx9NGVeHPp&t=350) to to types of circuits students can make (in the tutorials, and as an achievement, or a pre-made component on easy mode). This can be used to create a smarter register (4 bit or 8 bit register with the 5th input being write-enable instead of reset)
 
 
 ---
