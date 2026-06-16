@@ -360,6 +360,8 @@ Deferred until proven necessary or until a future pass picks them up.
   students can email or hand off. Pairs with embed-don't-reference save-file
   decision in Pass 3. (Pass 7+)
 
+- [ ] **Gated Latch** Add gated latch to to types of circuits students can make (in the tutorials, and as an achievement, or a pre-made component on easy mode)
+
 
 ---
 
